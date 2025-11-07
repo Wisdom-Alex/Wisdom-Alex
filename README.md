@@ -74,7 +74,7 @@ I'm a full-stack developer specializing in building modern web applications, blo
 - 💼 Available for freelance projects
 - 📫 wizzyalex132@gmail.com
 - 🌐 [Portfolio](https://wisdomcpu.web.app)
-- 💼 [LinkedIn](#) (https://linkedin.com/in/wisdom-chimezie)
+- 💼 [LinkedIn](https://linkedin.com/in/wisdom-chimezie)
 - 🐦 [@wizzyalex_](https://twitter.com/wizzyalex_)
 
 ### 📊 GitHub Stats

@@ -1,4 +1,4 @@
-# Hi, I'm Wisdom Alex 👋
+# Hi, I'm Wisdom 👋
 
 ## Full Stack Developer | Blockchain Engineer | Cloud & DevOps Enthusiast
 

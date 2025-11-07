@@ -85,7 +85,6 @@ I'm a full-stack developer specializing in building modern web applications, blo
 ### 🏆 Certifications
 - IBM Full Stack Software Developer Professional Certificate
 - Meta Back-End Developer Professional Certificate
-- *(Add more as you earn them)*
 
 ---
 
